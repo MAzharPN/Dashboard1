@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Menjalankan Aplikasi Streamlit
 Setelah semua dependensi terinstal, jalankan aplikasi Streamlit dengan perintah berikut:
 ```sh
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 
 Aplikasi akan berjalan dan dapat diakses melalui browser dengan alamat yang ditampilkan pada terminal setelah menjalankan perintah di atas.
